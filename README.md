@@ -15,6 +15,15 @@
 ### 💡 I’m currently working on ...
 - #### [Sunnyside Sites](https://sunnysidesites.com)
 
+### 🏆 I've recently completed...
+- #### [Kelly Insurance Auto Lookup & Filter Tool](https://github.com/JKelly423/Kelly-Insurance-Lookup-n-Filter)
+- #### [Annoy Jack](https://github.com/JKelly423/Annoy-Jack)
+- #### [Kelly Insurance Auto MC Lookup Tool](https://github.com/JKelly423/Kelly-Insurance-MC-Lookup)
+
+### ✔️ Latest Releases...
+- #### [Kelly Insurance Auto Lookup & Filter Tool v 1.0.4](https://github.com/JKelly423/Kelly-Insurance-Lookup-n-Filter/releases/tag/1.0.4)
+- #### [Kelly Insurance Auto MC Lookup Tool v 1.0.10](https://github.com/JKelly423/Kelly-Insurance-MC-Lookup/releases/tag/1.0.10)
+
 ### 📫 How to reach me: ...
 - #### [Sunnyside Sites on Facebook](https://www.facebook.com/SunnySideSites)
 

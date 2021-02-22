@@ -14,6 +14,7 @@
 ```
 ### 💡 I’m currently working on ...
 - #### [Sunnyside Sites](https://sunnysidesites.com)
+- #### [Auto Rhyme Generator](https://github.com/JKelly423/Auto-Rhyme-Generator)
 
 ### 🏆 I've recently completed...
 - #### [Kelly Insurance Auto Lookup & Filter Tool](https://github.com/JKelly423/Kelly-Insurance-Lookup-n-Filter)
@@ -21,8 +22,9 @@
 - #### [Kelly Insurance Auto MC Lookup Tool](https://github.com/JKelly423/Kelly-Insurance-MC-Lookup)
 
 ### ✔️ Latest Releases...
-- #### [Kelly Insurance Auto Lookup & Filter Tool v 1.0.4](https://github.com/JKelly423/Kelly-Insurance-Lookup-n-Filter/releases/tag/1.0.4)
-- #### [Kelly Insurance Auto MC Lookup Tool v 1.0.10](https://github.com/JKelly423/Kelly-Insurance-MC-Lookup/releases/tag/1.0.10)
+- #### [Kelly Insurance Auto Lookup & Filter Tool v1.0.4](https://github.com/JKelly423/Kelly-Insurance-Lookup-n-Filter/releases/tag/1.0.4)
+- #### [Kelly Insurance Auto MC Lookup Tool v1.0.10](https://github.com/JKelly423/Kelly-Insurance-MC-Lookup/releases/tag/1.0.10)
+- #### [Auto Rhyme Generator v1.0.0](https://github.com/JKelly423/Auto-Rhyme-Generator/releases/tag/v1.0.0)
 
 ### 📫 How to reach me: ...
 - #### [Sunnyside Sites on Facebook](https://www.facebook.com/SunnySideSites)

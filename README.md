@@ -8,7 +8,7 @@
   "Major": "Computer Science",
   "Pursuing": "B.S. Computer Science",
   "Pursuing": "M.S. Secure Computing",
-  "Level": "First Year University Student",
+  "Level": "Second Year University Student",
   "age": 18
 }
 ```

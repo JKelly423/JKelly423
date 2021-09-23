@@ -1,4 +1,3 @@
-### Greetings 👽
 ## Jack Kelly <img src="logo.png" width="50" align="right"/><p> 
 ### 💻 Some things about me...
 ```json

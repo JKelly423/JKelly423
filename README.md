@@ -5,15 +5,12 @@
   "Occupation": "Student",
   "School": "Indiana University - Bloomington",
   "Major": "Computer Science",
-  "Pursuing": "B.S. Computer Science",
-  "Pursuing": "M.S. Secure Computing",
+  "Pursuing": "B.S. in Computer Science",
+  "Pursuing": "M.S. in Secure Computing",
   "Level": "Second Year University Student",
-  "age": 18
+  "age": 19
 }
 ```
-### 💡 I’m currently working on ...
-- #### [Sunnyside Sites](https://sunnysidesites.com)
-- #### [Auto Rhyme Generator](https://github.com/JKelly423/Auto-Rhyme-Generator)
 
 ### 🏆 I've recently completed...
 - #### [Kelly Insurance Auto Lookup & Filter Tool](https://github.com/JKelly423/Kelly-Insurance-Lookup-n-Filter)
@@ -26,7 +23,7 @@
 - #### [Auto Rhyme Generator v1.0.0](https://github.com/JKelly423/Auto-Rhyme-Generator/releases/tag/v1.0.0)
 
 ### 📫 How to reach me: ...
-- #### [Sunnyside Sites on Facebook](https://www.facebook.com/SunnySideSites)
+- #### Email: Kelly14@iu.edu
 
 
 <br>

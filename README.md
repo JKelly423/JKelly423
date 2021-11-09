@@ -5,8 +5,8 @@
   "Occupation": "Student",
   "School": "Indiana University - Bloomington",
   "Major": "Computer Science",
-  "Pursuing": "B.S. in Computer Science",
-  "Pursuing": "M.S. in Secure Computing",
+  "Pursuing": "B.S. Computer Science",
+  "Pursuing": "M.S. Secure Computing",
   "Level": "Second Year University Student",
   "age": 19
 }

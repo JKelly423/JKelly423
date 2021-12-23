@@ -28,10 +28,11 @@
 
 <br>
 
+<!--
 #### ©️ COPYRIGHT DISCLAIMER
 > ##### Unless otherwise stated in the LISENCE of one of my individual repositories, all code featured on my profile is NOT LISENCED. This means that absolutely NO UNAUTHORIZED USE OR DISTRBUTION PERMITTED. I am the sole owner of any and all code featured on my Github profile. Any violators will be persecuted.
 #### Copyright ©️ 2021 Jack Kelly
-<!--
+
 **JKelly423/JKelly423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -22,6 +22,7 @@
 - #### [Kelly Insurance Auto MC Lookup Tool v1.0.10](https://github.com/JKelly423/Kelly-Insurance-MC-Lookup/releases/tag/1.0.10)
 - #### [Auto Rhyme Generator v1.0.0](https://github.com/JKelly423/Auto-Rhyme-Generator/releases/tag/v1.0.0)
 
+### ⚡ GitHub Stats
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkelly423&count_private=true&hide=issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
 ### 📫 How to reach me: ...

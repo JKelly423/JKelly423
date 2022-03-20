@@ -27,8 +27,9 @@
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkelly423&count_private=true&hide=issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
 ### 📫 How to reach me: ...
-- #### Email: Kelly14@iu.edu
-
+- #### Email: JackKelly423@gmail.com
+- #### [LinkedIn](https://www.linkedin.com/in/jkelly423/)
+- #### [Handshake](https://indiana.joinhandshake.com/stu/users/25541939)
 
 <br>
 

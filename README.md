@@ -7,7 +7,7 @@
   "Major": "Computer Science",
   "Pursuing": "B.S. Computer Science",
   "Pursuing": "M.S. Secure Computing",
-  "Level": "Second Year University Student",
+  "Level": "Third Year University Student",
   "Age": 19,
   "Graduation Date": "December 2024"
 }

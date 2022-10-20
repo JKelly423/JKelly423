@@ -8,7 +8,7 @@
   "Pursuing": "B.S. Computer Science",
   "Pursuing": "M.S. Secure Computing",
   "Level": "Third Year University Student",
-  "Age": 19,
+  "Age": 20,
   "Graduation Date": "December 2024"
 }
 ```

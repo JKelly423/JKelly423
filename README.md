@@ -1,4 +1,5 @@
 ## Jack Kelly <img src="logo.png" width="50" align="right"/><p> 
+#### __*Private Code Available for Review to Employers Upon Request*__
 ### 💻 Some things about me...
 ```json
 {

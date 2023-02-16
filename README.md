@@ -17,9 +17,9 @@
 ```
 
 ### 🏆 I've recently completed...
-- #### [Kelly Insurance Auto Lookup & Filter Tool](https://github.com/JKelly423/Kelly-Insurance-Lookup-n-Filter)
+- #### [Kelly Insurance Auto Lookup & Filter Tool](https://github.com/JKelly423/Kelly-Insurance-Lookup-n-Filter) | *Private*
 - #### [Annoy Jack](https://github.com/JKelly423/Annoy-Jack)
-- #### [Kelly Insurance Auto MC Lookup Tool](https://github.com/JKelly423/Kelly-Insurance-MC-Lookup)
+- #### [Kelly Insurance Auto MC Lookup Tool](https://github.com/JKelly423/Kelly-Insurance-MC-Lookup) | *Private*
 
 ### ✔️ Latest Releases...
 - #### [Kelly Insurance Auto Lookup & Filter Tool v2.1.0](https://github.com/JKelly423/Kelly-Insurance-Lookup-n-Filter/releases/tag/v2.1.0)

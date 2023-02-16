@@ -6,6 +6,7 @@
   "Occupation": "Student",
   "School": "Indiana University - Bloomington",
   "Major": "Computer Science",
+  "Minor": "Entrepreneurship and Small Business Management",
   "Pursuing": "B.S. Computer Science",
   "Pursuing": "M.S. Secure Computing",
   "Level": "Third Year University Student",

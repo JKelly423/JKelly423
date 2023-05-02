@@ -17,8 +17,9 @@
 ```
 
 ### 🏆 I've recently completed...
+- #### [Music Genre Classification](https://github.com/JKelly423/music-genre-classification)
+- #### [SqueezeNet](https://github.com/JKelly423/SqueezeNet)
 - #### [Kelly Insurance Auto Lookup & Filter Tool](https://github.com/JKelly423/Kelly-Insurance-Lookup-n-Filter) | *Private*
-- #### [Annoy Jack](https://github.com/JKelly423/Annoy-Jack)
 - #### [Kelly Insurance Auto MC Lookup Tool](https://github.com/JKelly423/Kelly-Insurance-MC-Lookup) | *Private*
 
 ### ✔️ Latest Releases...

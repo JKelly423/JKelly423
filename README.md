@@ -28,7 +28,7 @@
 - #### [Auto Rhyme Generator v1.0.0](https://github.com/JKelly423/Auto-Rhyme-Generator/releases/tag/v1.0.0)
 
 ### ⚡ GitHub Stats
-[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkelly423&count_private=true&hide=issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Jack's GitHub stats](https://github-readme-stats-two-hazel-73.vercel.app/api?username=jkelly423&count_private=true&rank_icon=percentile&hide=issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
 ### 📫 How to reach me: ...
 - #### Email: JackKelly423@gmail.com

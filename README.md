@@ -1,5 +1,9 @@
-## Jack Kelly <img src="logo.png" width="50" align="right"/><p> 
+## Jack Kelly <img src="logo.png" width="50" align="right"/> <p align="left">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jkelly423&label=Profile%20views&color=980eb4&style=flat" alt="jkelly423" /> </p>
+
 #### __*Private Code Available for Review to Employers Upon Request*__
+
+
 ### 💻 Some things about me...
 ```json
 {
@@ -48,7 +52,9 @@
   
 ### 📫 How to reach me: ...
 - #### Email: JackKelly423@gmail.com
-- #### [LinkedIn](https://www.linkedin.com/in/jkelly423/)
+- #### <p align="left">
+<a href="https://linkedin.com/in/jkelly423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jkelly423" height="30" width="40" /></a>
+</p>
 - #### [Handshake](https://indiana.joinhandshake.com/stu/users/25541939)
 
 <br>

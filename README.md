@@ -57,9 +57,6 @@
 <a href="https://indiana.joinhandshake.com/stu/users/25541939" target="blank"><img align="center" src="https://cdn.simpleicons.org/handshake/FF2F1C" alt="25541939" height="30" width="40" /></a>
 </p>
 
-
-<br>
-
 <!--
 #### ©️ COPYRIGHT DISCLAIMER
 > ##### Unless otherwise stated in the LISENCE of one of my individual repositories, all code featured on my profile is NOT LISENCED. This means that absolutely NO UNAUTHORIZED USE OR DISTRBUTION PERMITTED. I am the sole owner of any and all code featured on my Github profile. Any violators will be persecuted.

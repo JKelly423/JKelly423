@@ -50,12 +50,13 @@
 
 
   
-### 📫 How to reach me: ...
-- #### Email: JackKelly423@gmail.com
-- #### <p align="left">
-<a href="https://linkedin.com/in/jkelly423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jkelly423" height="30" width="40" /></a>
+### Connect With Me:
+
+<p align="left">
+<a href="https://linkedin.com/in/jkelly423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jkelly423" height="30" width="40" /></a> | 
+<a href="https://indiana.joinhandshake.com/stu/users/25541939" target="blank"><img align="center" src="https://cdn.simpleicons.org/handshake/FF2F1C" alt="25541939" height="30" width="40" /></a>
 </p>
-- #### [Handshake](https://indiana.joinhandshake.com/stu/users/25541939)
+
 
 <br>
 

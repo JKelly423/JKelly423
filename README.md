@@ -10,13 +10,12 @@
   "Occupation": "Student",
   "School": "Indiana University - Bloomington",
   "Major": "Computer Science",
-  "Specialization": "Security", 
-  "Minor": "Entrepreneurship and Small Business Management",
-  "Pursuing": "B.S. Computer Science",
+  "Specialization": "Security",
+  "Level": "Graduate University Student",
+  "Achieved": "B.S. Computer Science",
   "Pursuing": "M.S. Secure Computing",
-  "Level": "Fourth Year University Student",
   "Age": 21,
-  "Graduation Date": "May 2024"
+  "Graduation Date": "May 2025"
 }
 ```
 ----------------------------

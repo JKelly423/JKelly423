@@ -24,6 +24,7 @@
 ----------------------------------------------
 
 ### 🏆 I've recently completed...
+- #### [WhatsApp Conversation Wordcloud Generator](https://github.com/JKelly423/whatsapp-wordcloud)
 - #### [Music Genre Classification](https://github.com/JKelly423/music-genre-classification)
 - #### [SqueezeNet](https://github.com/JKelly423/SqueezeNet)
 - #### [Kelly Insurance Auto Lookup & Filter Tool](https://github.com/JKelly423/Kelly-Insurance-Lookup-n-Filter) | *Private*

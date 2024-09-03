@@ -39,12 +39,12 @@
 ![Top Langs](https://github-readme-stats-two-hazel-73.vercel.app/api/top-langs/?username=jkelly423&size_weight=0.5&count_weight=0.5&theme=tokyonight)
 
 -->
-
+<!--
 ### ⚡ GitHub Stats
 
 ![Top Langs](https://github-readme-stats-two-hazel-73.vercel.app/api/top-langs/?username=jkelly423&hide=jupyter%20notebook,html&layout=compact&size_weight=0.5&count_weight=0.5&theme=tokyonight)                | [![Jack's GitHub stats](https://github-readme-stats-two-hazel-73.vercel.app/api?username=jkelly423&count_private=true&rank_icon=percentile&hide=issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 :-------------------------:|:-------------------------:
-
+-->
 
 
 
@@ -52,9 +52,13 @@
 ### Connect With Me:
 
 <p align="left">
-<a href="https://linkedin.com/in/jkelly423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jkelly423" height="30" width="40" /></a> | 
-<a href="https://indiana.joinhandshake.com/stu/users/25541939" target="blank"><img align="center" src="https://cdn.simpleicons.org/handshake/FF2F1C" alt="25541939" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jkelly423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jkelly423" height="30" width="40" /></a>
+<!--
+   | 
+  <a href="https://indiana.joinhandshake.com/stu/users/25541939" target="blank"><img align="center" src="https://cdn.simpleicons.org/handshake/FF2F1C" alt="25541939" height="30" width="40" /></a>
+  -->
 </p>
+
 
 <!--
 #### ©️ COPYRIGHT DISCLAIMER

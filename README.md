@@ -14,7 +14,7 @@
   "Level": "Graduate University Student",
   "Achieved": "B.S. Computer Science",
   "Pursuing": "M.S. Secure Computing",
-  "Age": 21,
+  "Age": 22,
   "Graduation Date": "May 2025"
 }
 ```

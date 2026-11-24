@@ -1,4 +1,3 @@
-## Jack Kelly 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkelly423&label=Profile%20views&color=980eb4&style=flat" alt="jkelly423" /> </p>
 
 #### __*Private Code Available for Review to Employers Upon Request*__
